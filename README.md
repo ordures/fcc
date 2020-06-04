@@ -26,3 +26,11 @@
 
 `> fcc m TestFcc`
 > 在自定义路径（默认为。/src/modules）中生成 TestFcc 模块
+
+### github
+
+https://github.com/ordures/fcc
+
+### issue
+
+https://github.com/ordures/fcc/issues
